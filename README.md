@@ -1,16 +1,30 @@
-# trackmysalary
 
-A new Flutter project.
+---
 
-## Getting Started
+## ✅ 3. `TrackMySalary` – Project README
 
-This project is a starting point for a Flutter application.
+```markdown
+# 💰 TrackMySalary
 
-A few resources to get you started if this is your first Flutter project:
+A Flutter app to help users track monthly salary and manage expenses. Lightweight and user-friendly, designed to assist with personal finance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add/remove expenses
+- Dynamic list with totals
+- Clean interface
+- Local data handling
+
+## 🛠 Tech Stack
+
+- Flutter / Dart
+- Stateful Widgets
+- Local state management
+
+## 🚀 Setup Instructions
+
+```bash
+git clone https://github.com/yourusername/TrackMySalary
+cd TrackMySalary
+flutter pub get
+flutter run
